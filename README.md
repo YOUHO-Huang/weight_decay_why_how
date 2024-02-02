@@ -1,10 +1,12 @@
 # How Does Weight Decay Improve the Nonconvex SGD: When and Why?
 
 Requirements:
-    torch
-    torchvision
-    tensorboardX
-    lion_pytorch
+```
+torch
+torchvision
+tensorboardX
+lion_pytorch
+```
     
 Runing Script:
 ```

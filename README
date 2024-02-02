@@ -14,3 +14,10 @@ or runing in parallel on different GPUs
 ```
 CUDA_DEVICES_VISIBLE=0,1,2,3 python train_val.py --dataset [cifar10/cifar100/imagenet] --Algorithm [SGDM/ASIGNSGD] --lr [learning_rate] --weight_decay [weight decay] --theta [theta] --zeta [zeta] 
 ```
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```

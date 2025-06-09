@@ -1,4 +1,4 @@
-# How Does Weight Decay Improve the Nonconvex SGD: When and Why?
+# Investigating the Role of Weight Decay in Enhancing Nonconvex SGD
 
 The repositroy contains the codes for the paper [Investigating the Role of Weight Decay in Enhancing Nonconvex SGD](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Investigating_the_Role_of_Weight_Decay_in_Enhancing_Nonconvex_SGD_CVPR_2025_paper.pdf) published on CVPR 2025. 
 
